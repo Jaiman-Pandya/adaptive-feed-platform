@@ -93,8 +93,6 @@ Unit and integration tests validate:
 ## Repository Structure
 
 ```bash
-pip install -r requirements.txt
-
 adaptive-feed-reliability-platform/
 │
 ├── dashboard/
