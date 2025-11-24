@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+adaptive-feed-reliability-platform/venv/
+.DS_Store
+.ipynb_checkpoints/
